@@ -1,0 +1,1 @@
+This project deals with developing a Virtual website E-commerce website.                                *It provides the user with a list of the various products available for purchase in the store. *Technologies used in Django framework and SQLite database.                                              *Admin interfaces are login, insert, removes and modifies items.   
